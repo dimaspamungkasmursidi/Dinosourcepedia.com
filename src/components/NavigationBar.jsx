@@ -9,8 +9,8 @@ const NavigationBar = () => {
           <Navbar.Brand href="#home">
             <img
               src="/images/logo.png"
-              width="92"
-              height="76"
+              width="81"
+              height="71"
               className="d-inline-block align-top"
               alt="React Bootstrap logo"
             />
